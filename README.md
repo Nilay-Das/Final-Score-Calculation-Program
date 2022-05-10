@@ -1,5 +1,5 @@
 # Final-Score-Calculation-Program-(Java)
-This program calculates the mean / final score, median and calculates predicted scores of assessments.
+This program calculates the mean / final score, median and calculates predicted scores of assessments. The program is written using Java.
 
 
 The inputs and outputs for each problem is as follows:
