@@ -2,7 +2,7 @@
 This program calculates the mean / final score, median and calculates predicted scores of assessments.
 
 
-The inputs and output for each problem is as follows:
+The inputs and outputs for each problem is as follows:
 
 --Problem 1-- 
 
